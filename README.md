@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-APP-NAME.streamlit.app"><strong>▶ Try the live tool</strong></a>
+  <a href="https://dnapromoterscanner-rqcvd2meh3rwkqwntllyj2.streamlit.app"><strong>▶ Try the live tool</strong></a>
   ·
   <a href="#what-it-actually-does">How it works</a>
   ·
@@ -195,7 +195,7 @@ result is claimed here.)*
 ## Try it
 
 **Online — nothing to install:** open
-**[the live app](https://YOUR-APP-NAME.streamlit.app)**, pick a mode, paste
+**[the live app](https://dnapromoterscanner-rqcvd2meh3rwkqwntllyj2.streamlit.app)**, pick a mode, paste
 a sequence or use the pre-filled example, and click *Scan sequence*. Works
 on a phone.
 
