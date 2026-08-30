@@ -1,0 +1,14 @@
+# Keep line endings sane across the Windows machine this is developed on
+# and the Linux machine that runs the deployed app.
+
+# Text files are stored with LF in the repo, checked out native locally.
+* text=auto eol=lf
+
+# Windows batch files must keep CRLF or cmd.exe can mis-parse them.
+*.bat text eol=crlf
+
+# Never line-ending-convert these -- doing so corrupts them.
+*.pkl binary
+*.npy binary
+*.png binary
+*.data binary

@@ -1,0 +1,40 @@
+# ---------------------------------------------------------------
+# Files that must NOT go into the public GitHub repo used to deploy
+# on Streamlit Community Cloud.
+# ---------------------------------------------------------------
+
+# Private planning transcript. It names people, describes what the
+# project is for, and contains local file paths. A Streamlit Community
+# Cloud repo is PUBLIC -- keep this out of it.
+chat.txt
+
+# Personal operating notes (running, shutting down, and deploying the
+# site). Written for the author, not for visitors -- and it names local
+# paths and account steps. Keep it off the public repo.
+emily-deploy.txt
+
+# Virtual environments (hundreds of MB, and platform-specific: a Windows
+# .venv is useless to the Linux machine that runs the deployed app).
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local editor / tool settings
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------------------
+# Deliberately NOT ignored -- the deployed app needs these committed:
+#   data/model.pkl
+#   data/tata_model.pkl
+#   data/promoters.data
+# Streamlit Community Cloud will not run your training scripts, so the
+# trained models have to be in the repo.
+# ---------------------------------------------------------------

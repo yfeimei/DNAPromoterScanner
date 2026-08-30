@@ -1,0 +1,21 @@
+# Versions pinned to the ones this project was verified against, on
+# Python 3.13 (Windows 11 and macOS).
+#
+# Why pinned: data/model.pkl and data/tata_model.pkl are pickled
+# scikit-learn models. If a host installs a different scikit-learn than
+# the one that created them, loading can fail and the deployed site
+# breaks when someone clicks "Scan sequence". Pinning keeps the hosted
+# environment identical to the tested one.
+#
+# When deploying on Streamlit Community Cloud, select Python 3.13 in the
+# deploy dialog's "Advanced settings" so these versions resolve.
+#
+# To move to newer versions later: bump them here, re-run
+# src/train_model.py and src/train_tata_model.py to regenerate the .pkl
+# files, and commit both the new requirements.txt and the new .pkl files
+# together.
+
+numpy==2.5.2
+scikit-learn==1.9.0
+matplotlib==3.11.1
+streamlit==1.61.1

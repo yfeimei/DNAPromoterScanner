@@ -1,0 +1,66 @@
+Paste EACH numbered prompt below into a free chatbot (ChatGPT, Claude, or Gemini) ONE AT A TIME, in a NEW/fresh chat each time (so earlier answers can't bias later ones). Record its answer in results_template.csv.
+
+--- Prompt 1 ---
+Here is a 57-letter DNA sequence: cagggggtggaggatttaagccatctcctgatgacgcatagtcagcccatcatgaat
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 2 ---
+Here is a 57-letter DNA sequence: tattggcttgctcaagcatgaactcaaggctgatacggcgagacttgcgagccttgt
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 3 ---
+Here is a 57-letter DNA sequence: ttgtcataatcgacttgtaaaccaaattgaaaagatttaggtttacaagtctacacc
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 4 ---
+Here is a 57-letter DNA sequence: ggtgttttgcgcaatgttaatcgctttgtacacctcaggcatgtaaacgtcttcgta
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 5 ---
+Here is a 57-letter DNA sequence: aattgtgatgtgtatcgaagtgtgttgcggagtagatgttagaatactaacaaactc
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 6 ---
+Here is a 57-letter DNA sequence: ttgacctactacgccagcattttggcggtgtaagctaaccattccggttgactcaat
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 7 ---
+Here is a 57-letter DNA sequence: tcgataattaactattgacgaaaagctgaaaaccactagaatgcgcctccgtggtag
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 8 ---
+Here is a 57-letter DNA sequence: ctatatgcgctcatacgatatgaacgttgagactgccgctgagttatcagctgtgaa
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 9 ---
+Here is a 57-letter DNA sequence: ttactgtgaacattattcgtctccgcgactacgatgagatgcctgagtgcttccgtt
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 10 ---
+Here is a 57-letter DNA sequence: gacaccatcgaatggcgcaaaacctttcgcggtatggcatgatagcgcccggaagag
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 11 ---
+Here is a 57-letter DNA sequence: atgcaattttttagttgcatgaactcgcatgtctccatagaatgcgcgctacttgat
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 12 ---
+Here is a 57-letter DNA sequence: catgtcagcctcgacaacttgcataaatgctttcttgtagacgtgccctacgcgctt
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 13 ---
+Here is a 57-letter DNA sequence: gccaatcaatcaagaacttgaagggtggtatcagccaacagcctgacatccttcgtt
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 14 ---
+Here is a 57-letter DNA sequence: aacgcatacggtattttaccttcccagtcaagaaaacttatcttattcccacttttc
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 15 ---
+Here is a 57-letter DNA sequence: ttttaaatttcctcttgtcaggccggaataactccctataatgcgccaccactgaca
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
+--- Prompt 16 ---
+Here is a 57-letter DNA sequence: caatggcctctaaacgggtcttgaggggttttttgctgaaaggaggaactatatgcg
+Is this likely to be a bacterial gene promoter region? Answer with a single word first (Yes or No), then a 1-2 sentence explanation of your reasoning.
+
